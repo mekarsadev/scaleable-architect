@@ -1,2 +1,2 @@
-# scaleable-architect
+# Scaleable Architect
 Tech stack architetures
